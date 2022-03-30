@@ -29,12 +29,9 @@ Qualidade do sistema produzido (adequação aos requisitos apresentados);
 Alinhamento entre modelo (de classes e de arquitetura) e código;
 Atualizações dos modelos conforme necessidade do projeto.
 Processo de Desenvolvimento:
+
 Lab02S01: Modelagem do sistema: Diagrama de Casos de Uso, Histórias do Usuário, Diagrama de Classes e Diagrama de Pacotes (Visão Lógica).
 
 Lab02S02: Revisão dos diagramas, de acordo com feedback em aula + Implementação do CRUD de cliente (atendendo aos RNFs de ser um sistema WEB, em Java, com MVC);
 
 Lab02S03: TBD;
-
-Prazo final: 12/04 | Apresentação: 12/04 | Valor total: 20 pontos | Desconto de 1.0 ponto por dia de atraso
-
-Atenção: semanalmente, todos os grupos deverão apresentar o andamento das entregas durante a aula. A não participação do grupo sorteado implicará na perda automática de 50% dos pontos da sprint.
